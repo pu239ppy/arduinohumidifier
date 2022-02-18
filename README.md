@@ -5,4 +5,5 @@
 - deep sleep is commented out because when in deep sleep BLE does not work.  I may want to start listening to broadcasts as opposed to reading.  But deep sleep should save some power.
 
 ## Future work
-Connect an atomizer to humidify
+- Connect an atomizer to humidify
+- Check BT status
